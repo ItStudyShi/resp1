@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "citys",
+      "type": "com.laowang.spring_day01_01.demo.controller.QuickController",
+      "sourceType": "com.laowang.spring_day01_01.demo.controller.QuickController"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
